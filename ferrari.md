@@ -9,6 +9,8 @@
 **Pilotes :**
 - Charles Leclerc
 - Carlos Sainz Jr.
+- ALONSO Fernando
+- BARRICHELLO Rubens
 
 **Moteur :** Ferrari
 
