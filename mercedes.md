@@ -9,7 +9,7 @@
 **Pilotes :**
 - Lewis Hamilton
 - Valtteri Bottas
-
+- Nick Fry
 **Moteur :** Mercedes
 
 **Titres de championnat constructeurs :** 8 (depuis 2014)
